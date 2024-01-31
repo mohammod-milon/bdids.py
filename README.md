@@ -2,9 +2,9 @@
 all enjoy this tool
 
 
-installation termux
-pkg update && pkg upgrade
-pkg install python
+installation termux 
+ pkg update && pkg upgrade
+ pkg install python
 pkg install python2
 pkg install git
 pip2 install requests
